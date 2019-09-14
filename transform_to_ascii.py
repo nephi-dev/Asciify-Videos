@@ -57,5 +57,4 @@ def runner(array):
         return None
     image = do(image)
 
-    # To print on console
     return image
