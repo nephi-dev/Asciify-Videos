@@ -5,5 +5,5 @@ Used to transform entire videos in ascii letters
 To use put all the files in a folder and then run "master,py" file
 
 # Requirements
-  --> opencv-python
-  --> Pillow
+--> opencv-python
+--> Pillow
