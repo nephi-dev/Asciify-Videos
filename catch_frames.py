@@ -1,5 +1,6 @@
 import cv2
 
+
 def catch_video_frames(video_path):
 
     vidcap = cv2.VideoCapture(video_path)
