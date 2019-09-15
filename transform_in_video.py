@@ -4,7 +4,7 @@ import numpy
 
 def convert_to_opencv(frame):
     opencv_image = numpy.array(frame)
-    opencv_image = opencv_image[:, :, ::-1].copy()
+    opencv_image = opencv_image[:, :, ::-1].copy() # RGB to BGR
     return opencv_image
 
 def create_video_from_frames(frames_list, original_video):
