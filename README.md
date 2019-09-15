@@ -16,3 +16,6 @@ then wait to the video to "asciified"
 First the script load all the frames of the video, pass then to the asciify algorithm  
 after that, every frame from video will create a new image, that will be used to create the new video  
 finally the new video will be created ate the same locale of your "master.py" file
+
+# TODO
+> Make possible to load videos from web links
