@@ -3,7 +3,7 @@ Used to transform entire videos in ascii letters
 
 # How to
 To use, put all the files in a folder and then run "master.py" file  
-after that paste your file path into the terminal and press enten  
+after that paste your file path into the terminal and press enter  
 then wait to the video to "asciified"
 
 # Requirements
