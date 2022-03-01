@@ -19,3 +19,6 @@ finally the new video will be created ate the same locale of your "master.py" fi
 
 # TODO
 > Make possible to load videos from web links
+
+
+## Idea from: [RameshAditya](https://github.com/RameshAditya/asciify)
